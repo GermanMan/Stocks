@@ -13,7 +13,7 @@ while use == True:
     #stock gets the stock and info gets what about the stock the user wants to see
     stock = str(input("What stock would you like to see: "))
     info = str(input('What information on this stock would you like to see? ie: High, Low, Open, Close: '))
-    #Start and end are where the user will input their desired time frame for the stock     need to figure out how to do user input for this
+    
     #inStart= (input(''))
     #inEnd=
     start = dt.datetime(2018, 1, 1)
