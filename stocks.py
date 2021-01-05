@@ -7,7 +7,7 @@ import os
 
 style.use("ggplot")
 print('Hello! Welcome to my stock finder!')
-#While loop allows the user to search as many stocks as they wish and stop when ever they want
+#While loop allows the user to search as many stocks as they wish and stop when ever they want 
 use = True
 while use == True:
     #stock gets the stock and info gets what about the stock the user wants to see
